@@ -3,9 +3,6 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-2.3-green.svg)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/rohan0701/video-downloader?style=social)](https://github.com/yourusername/video-downloader/stargazers)
-[![Forks](https://img.shields.io/github/forks/rohan0701/video-downloader?style=social)](https://github.com/yourusername/video-downloader/network/members)
-[![Issues](https://img.shields.io/github/issues/rohan0701/video-downloader)](https://github.com/yourusername/video-downloader/issues)
 
 A **powerful, user-friendly YouTube downloader** built with **Flask** and **yt-dlp**, supporting **video, audio, or both** downloads in **1080p by default**, with download history and server monitoring.
 
@@ -27,14 +24,20 @@ A **powerful, user-friendly YouTube downloader** built with **Flask** and **yt-d
 ## 📂 Folder Structure
 
 VID_DONL/
+
 │── .venv/
+
 │── templates/
 │ └── index.html
+
 │── static/
 │ ├── style.css
 │ └── script.js
+
 │── downloads/
+
 │── app.py
+
 │── download_history.json
 
 
